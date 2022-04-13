@@ -1,1 +1,0 @@
-document.write("un hola mundo cualquiera...")
